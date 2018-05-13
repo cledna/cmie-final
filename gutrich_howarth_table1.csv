@@ -1,0 +1,34 @@
+Table 1. Parameter values by forest type,,,,,,
+,,White–red-jack pine,Spruce-fir,Oak-pine,Oak-hickory,Maple-beech-birch
+_0,Maximum timber volume (m3/ha),431,703,392,852,400
+_1,Timber growth coefficient (%/year),0.0066,0.0038,0.0115,0.0055,0.0103
+_2,Minimum stand age with positive timber volume (years),4.47,13.35,7.77,3.51,9.59
+Ppole,Poletimber price in 2005 ($/m3),19.8,14.9,26.5,26.9,22.7
+Psaw,Sawtimber price in 2005 ($/m3),121,61,168,153,106
+_0,Sawtimber share coefficient (%),6.37,7.27,1.91,9.72,1.38
+_1,Sawtimber share coefficient (years),2.7,1.47,22.79,1.11,20.02
+_2,Sawtimber share coefficient (%),5.4,6.7,0.77,9.04,0.55
+_0,Maximum carbon storage in live biomass (t/ha),155,226,196,350,213
+_1,Live biomass growth coefficient (%/year),0.0115,0.006,0.0129,0.0087,0.0114
+Cdead(0),Initial carbon storage in dead and downed wood(t/ha),20.5,44.2,39.2,22,38.7
+_0,Decay rate of dead and downed wood (%/year),0.045,0.079,0.064,0.06,0.073
+_1,Formation coefficient for dead and downed wood,0.258,0.73,0.285,0.206,0.391
+_2,Formation coefficient for dead and downed wood,0.358,0.428,0.523,0.431,0.478
+Csoil,Soil carbon storage (t/ha),196,193,82,85,140
+_,Average carbon content of wood (t/m3),0.268,0.255,0.268,0.287,0.327
+_1,Carbon content of softwood pulpwood (t/m3),0.234,0.234,0.234,0.234,0.234
+_2,Carbon content of softwood sawlogs (t/m3),0.234,0.234,0.234,0.234,0.234
+_3,Carbon content of hardwood pulpwood (t/m3),0.357,0.357,0.357,0.357,0.357
+_4,Carbon content of hardwood sawlogs (t/m3),0.357,0.357,0.357,0.357,0.357
+h1,% of harvest allocated to softwood pulpwood,0.208,0.492,0.172,0.181,0.127
+h2,% of harvest allocated to softwood sawlogs,0.5,0.322,0.538,0.375,0.113
+h3,% of harvest allocated to hardwood pulpwood,0.114,0.093,0.048,0.131,0.365
+h4,% of harvest allocated to hardwood sawlogs,0.149,0.071,0.215,0.276,0.34
+_01,Decay rate of softwood pulp products (%/year),0.006,0.006,0.006,0.006,0.006
+_02,Decay rate of softwood saw products (%/year),0.0038,0.0038,0.0038,0.0038,0.0038
+_03,Decay rate of hardwood pulp products (%/year),0.0062,0.0062,0.0062,0.0062,0.0062
+_04,Decay rate of hardwood saw products (%/year),0.0042,0.0042,0.0042,0.0042,0.0042
+_11,% of wood carbon stored in softwood pulp products,0.237,0.237,0.237,0.237,0.237
+_12,% of wood carbon stored in softwood saw products,0.298,0.298,0.298,0.298,0.298
+_13,% of wood carbon stored in hardwood pulp products,0.227,0.227,0.227,0.227,0.227
+_14,% of wood carbon stored in hardwood saw products,0.187,0.187,0.187,0.187,0.187
